@@ -92,8 +92,6 @@ export default function Form() {
             className="w-full p-3 border rounded-md"
           >
             <option value="10">10 pages</option>
-            <option value="20">20 pages</option>
-            <option value="30">30 pages</option>
           </select>
         </div>
 
